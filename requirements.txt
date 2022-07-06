@@ -2,7 +2,7 @@ bidict==0.14.0
 bokeh==1.4.0
 ConfigArgParse==0.14.0
 imbalanced-learn==0.5.0
-lxml==4.4.1
+lxml==4.9.1
 music21==5.1.0
 mutagen==1.41.1
 numpy==1.17.3
